@@ -4,6 +4,10 @@
 
 ٢٢ مصطلح لازم تفهمهم في عالم الـ AI، كل مصطلح معاه أيكون بيشرح الفكرة، وشرح بسيط، وفين بيتستخدم في الواقع.
 
+## افتحه أونلاين
+
+🌐 [zahranppc.github.io/ai-dictionary](https://zahranppc.github.io/ai-dictionary/)
+
 ## حمّل الملف
 
 📄 [AI-Dictionary-Ahmed-Zahran.pdf](AI-Dictionary-Ahmed-Zahran.pdf)
